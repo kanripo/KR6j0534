@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說聖曜母陀羅尼經
+#+DATE: 2015-08-30 20:34:21.145551
+#+PROPERTY: JUAN 0
