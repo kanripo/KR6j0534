@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:20.947404
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:24
 #+TITLE: 佛說聖曜母陀羅尼經
 #+PROPERTY: CBETA_ID T21n1303
 #+PROPERTY: ID KR6j0534
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1303
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0534_T_000-0421a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0534_T_001-0421a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1303¶
-
- 佛說聖曜母陀羅尼經¶
+No. 1303¶
+佛說聖曜母陀羅尼經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳教大師臣法天奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚卿傳教大師臣法天奉　詔譯¶
 
 如是我聞。一時佛在阿拏迦嚩帝大城。爾時¶
 有無數天龍夜叉乾闥婆阿修羅迦樓羅緊那¶
